@@ -1,0 +1,17 @@
+.LandingPage {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #F4F6FA;
+  overflow-x: hidden;
+}
+
+.NavBar {
+  height: 5vh;
+  margin-top: 0;
+}
+
+.Content {
+  width: 83%;
+  margin: auto auto auto auto;
+}
